@@ -1,3 +1,3 @@
-pandas 
-streamlist
-plotly.express
+pandas
+plotly_express
+streamlit
